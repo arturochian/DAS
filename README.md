@@ -1,4 +1,3 @@
-DAS
-===
+# DAS
 
 Data Accumulation Solution
